@@ -1,0 +1,22 @@
+.encabezado{
+  background-color: #6495ED;
+}
+.info{
+  background-color: #DCDCDC;
+  font-family: 'Oswald', sans-serif;
+}
+.iconos{
+  padding-top: 10%;
+}
+.buscar{
+  padding-top: 2%;
+}
+.fonti{
+  font-family: 'Oswald', sans-serif;
+}
+.opciones{
+  width: 100%;
+}
+.todo{
+  background-color: #87CEFA;
+}
